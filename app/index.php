@@ -108,10 +108,55 @@
 				<div class="col">col</div>
 			</div>
 		</div>
-		<div class="axample-bs">
+		<div class="example-bs">
 			<div class="row">
 				<h3>3.1. Брэйкпоинты</h3>
 			</div>
+			<div class="row">
+				<div class="col">col</div>
+				<div class="col">col</div>
+				<div class="col">col</div>
+				<div class="col">col</div>
+			</div>
+			<div class="row">
+				<div class="col-8">col-8</div>
+				<div class="col-4">col-4</div>
+			</div>
+		</div>
+		<div class="example-bs">
+			<div class="row">
+				<h3>3.2. На мобильных устройствах</h3>
+			</div>
+			<div class="row">
+				<div class="col-sm-8">col-sm-8</div>
+				<div class="col-sm-4">col-sm-4</div>
+			</div>
+			<div class="row">
+				<div class="col-sm">col-sm</div>
+				<div class="col-sm">col-sm</div>
+				<div class="col-sm">col-sm</div>
+			</div>
+
+		</div>
+		<div class="example-bs">
+			<div class="row">
+				<h3>3.3. Создание сложной комбинированной сетки</h3>
+			</div>
+			<div class="row">
+				<div class="col-md-8">col-md-8</div>
+				<div class="col-6 col-md-4">col-6 col-md-4</div>
+			</div>
+			<div class="row">
+				<div class="col-6 col-md-4">col-6 col-md-4</div>
+				<div class="col-6 col-md-4">col-6 col-md-4</div>
+				<div class="col-6 col-md-4">col-6 col-md-4</div>
+			</div>
+			<div class="row">
+				<div class="col-xsm-2 col-sm-6">col-sm-6</div>
+				<div class="col-xsm-2 col-sm-6">col-sm-6</div>
+			</div>
+			
+
 		</div>
 		
 	</div>
